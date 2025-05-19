@@ -1,0 +1,213 @@
+age,education_background,favorite_subject,technical_skills,communication_skills,problem_solving_skills,creativity_level,interest_in_research,preferred_work_style,logical_reasoning_score,chosen_career_path
+18,Science,Math,Python,4,5,3,4,Solo,9,Data Scientist
+19,Science,Biology,Java,3,4,2,5,Team,7,Doctor
+20,Arts,History,C,5,3,4,3,Team,6,Lawyer
+21,Commerce,Math,Java,2,3,2,2,Solo,5,Accountant
+18,Science,Computers,Python,4,5,3,4,Solo,8,Software Engineer
+19,Arts,English,Photoshop,5,2,5,3,Team,6,UX Designer
+22,Commerce,Math,Python,3,5,3,2,Leadership,9,Data Scientist
+20,Science,Biology,C,2,3,2,5,Solo,4,Doctor
+21,Commerce,English,Java,4,4,4,3,Team,6,Accountant
+19,Arts,History,R,4,3,5,2,Leadership,7,Lawyer
+18,Science,Math,Python,3,4,3,4,Solo,8,Data Scientist
+23,Commerce,Computers,Python,4,4,3,3,Team,8,Software Engineer
+21,Arts,English,Photoshop,5,3,5,3,Team,6,UX Designer
+20,Science,Biology,Java,3,3,2,4,Solo,5,Doctor
+19,Commerce,Math,Java,3,4,3,3,Leadership,6,Accountant
+22,Science,Chemistry,JavaScript,4,5,3,4,Team,9,Data Scientist
+21,Arts,Literature,Kotlin,3,4,5,4,Leadership,8,UX Designer
+23,Commerce,Economics,C#,5,4,3,3,Solo,7,Accountant
+24,Science,Physics,HTML/CSS,4,3,4,5,Leadership,9,Software Engineer
+22,Arts,History,Ruby,4,5,5,3,Team,8,Lawyer
+20,Commerce,Marketing,SQL,4,4,3,2,Team,7,Accountant
+21,Science,Biology,Java,3,5,4,3,Leadership,8,Data Scientist
+23,Arts,Philosophy,Rust,4,3,5,4,Leadership,6,UX Designer
+19,Commerce,Accounting,Python,5,4,3,2,Solo,9,Accountant
+20,Science,Math,Go,3,5,4,3,Leadership,8,Software Engineer
+22,Arts,Sociology,C++,4,4,5,3,Team,7,Lawyer
+24,Commerce,Finance,JavaScript,5,3,4,5,Solo,8,Data Scientist
+23,Science,Environmental,Swift,4,5,3,2,Team,9,Software Engineer
+22,Arts,Literature,Ruby,5,4,3,5,Leadership,6,UX Designer
+21,Commerce,Marketing,HTML/CSS,4,3,5,2,Team,7,Accountant
+20,Science,Chemistry,MATLAB,4,5,3,3,Solo,9,Software Engineer
+23,Arts,Art History,SQL,3,4,5,4,Team,8,Lawyer
+21,Commerce,Economics,Java,4,4,3,5,Leadership,7,Accountant
+22,Science,Math,Python,5,5,4,3,Team,9,Data Scientist
+24,Arts,History,Kotlin,3,5,4,3,Solo,7,UX Designer
+23,Commerce,Accounting,TypeScript,4,4,3,2,Leadership,9,Accountant
+21,Science,Physics,Go,5,3,4,5,Team,8,Software Engineer
+20,Arts,Philosophy,JavaScript,4,5,3,4,Leadership,7,Lawyer
+19,Commerce,Marketing,C++,3,4,4,3,Team,9,Accountant
+22,Science,Chemistry,C#,4,5,3,2,Solo,8,Data Scientist
+24,Arts,Literature,Rust,4,3,5,4,Leadership,7,UX Designer
+23,Commerce,Finance,TypeScript,5,4,3,3,Team,8,Accountant
+20,Science,Biology,JavaScript,3,4,5,3,Solo,9,Software Engineer
+21,Arts,Music,SQL,4,3,5,2,Team,6,UX Designer
+22,Science,Chemistry,HTML/CSS,4,5,3,4,Solo,8,Data Scientist
+21,Arts,Literature,Ruby,3,4,5,4,Leadership,7,UX Designer
+20,Commerce,Economics,TypeScript,4,5,3,2,Team,9,Accountant
+23,Science,Biology,C#,5,4,4,3,Leadership,7,Software Engineer
+22,Arts,History,Rust,4,3,5,4,Team,6,Lawyer
+24,Commerce,Marketing,Python,3,4,4,3,Leadership,9,Accountant
+23,Science,Physics,SQL,4,5,4,3,Solo,8,Data Scientist
+21,Arts,Art History,JavaScript,3,5,5,4,Leadership,7,UX Designer
+19,Commerce,Accounting,Go,4,3,5,2,Team,9,Accountant
+20,Science,Math,Swift,4,5,3,3,Leadership,7,Software Engineer
+24,Arts,Sociology,MATLAB,3,4,4,5,Solo,8,Lawyer
+22,Commerce,Finance,Java,4,3,5,3,Team,9,Accountant
+21,Science,Environmental,Scala,4,5,3,4,Leadership,7,Data Scientist
+23,Arts,Philosophy,Python,4,3,5,4,Team,8,UX Designer
+19,Commerce,Marketing,Kotlin,4,5,3,2,Solo,7,Accountant
+22,Science,Chemistry,Ruby,5,4,4,3,Leadership,9,Data Scientist
+21,Arts,Music,Go,3,4,5,2,Team,6,UX Designer
+24,Commerce,Business,TypeScript,4,5,3,3,Solo,8,Accountant
+23,Science,Physics,JavaScript,4,5,3,4,Team,9,Software Engineer
+22,Science,Chemistry,C++,4,5,3,4,Solo,8,Data Scientist
+21,Arts,Literature,Python,5,4,4,3,Team,7,UX Designer
+23,Commerce,Economics,Swift,3,4,5,4,Leadership,8,Accountant
+20,Science,Biology,JavaScript,4,5,3,3,Team,7,Software Engineer
+24,Arts,History,Ruby,4,3,5,2,Leadership,6,Lawyer
+21,Commerce,Accounting,PHP,5,4,4,3,Team,8,Accountant
+22,Science,Physics,Rust,3,4,3,4,Leadership,9,Data Scientist
+23,Arts,Philosophy,MATLAB,4,5,4,3,Solo,6,UX Designer
+20,Commerce,Finance,Kotlin,3,5,3,4,Leadership,7,Accountant
+22,Science,Math,TypeScript,4,4,5,3,Team,8,Software Engineer
+24,Arts,Sociology,HTML/CSS,3,4,5,2,Solo,7,Lawyer
+19,Science,Environmental,Go,4,3,5,3,Leadership,9,Data Scientist
+21,Arts,Music,SQL,4,4,3,4,Solo,8,UX Designer
+22,Commerce,Marketing,Java,3,5,2,3,Leadership,7,Accountant
+23,Science,Chemistry,Scala,4,5,4,4,Solo,6,Software Engineer
+20,Arts,Literature,Swift,5,3,5,2,Leadership,7,UX Designer
+21,Commerce,Accounting,C#,4,4,3,3,Team,8,Data Scientist
+22,Science,Biology,JavaScript,4,5,4,3,Solo,9,Software Engineer
+19,Arts,Art History,Python,3,4,5,4,Leadership,6,Lawyer
+23,Science,Chemistry,SQL,4,5,3,4,Solo,8,Data Scientist
+22,Arts,Literature,PHP,3,4,5,4,Leadership,7,UX Designer
+21,Commerce,Economics,JavaScript,5,4,4,3,Team,9,Accountant
+24,Science,Biology,Python,4,3,5,4,Team,7,Software Engineer
+20,Arts,History,Ruby,4,5,5,2,Team,6,Lawyer
+23,Commerce,Accounting,C#,3,3,2,4,Solo,7,Accountant
+19,Science,Physics,Go,5,5,3,4,Leadership,8,Data Scientist
+22,Arts,Philosophy,MATLAB,3,4,4,3,Team,7,UX Designer
+24,Commerce,Finance,Swift,4,5,3,3,Solo,8,Accountant
+21,Science,Math,Kotlin,4,3,5,3,Team,7,Software Engineer
+20,Arts,Sociology,Rust,3,5,4,4,Leadership,9,Lawyer
+23,Commerce,Marketing,HTML/CSS,5,4,3,2,Team,8,Accountant
+22,Science,Environmental,JavaScript,3,4,3,5,Solo,7,Software Engineer
+21,Arts,Music,TypeScript,4,5,4,3,Leadership,6,UX Designer
+24,Commerce,Business,Angular,3,4,3,4,Solo,8,Data Scientist
+20,Science,Chemistry,Scala,4,3,5,2,Team,9,Software Engineer
+22,Arts,Theater,Adobe Photoshop,5,4,3,3,Leadership,7,UX Designer
+23,Commerce,Economics,SQL,4,5,2,4,Team,9,Accountant
+21,Science,Physics,Python,4,4,4,3,Solo,8,Software Engineer
+22,Science,Chemistry,R,4,5,3,4,Team,8,Data Scientist
+24,Arts,Literature,JavaScript,3,4,5,4,Solo,7,UX Designer
+23,Commerce,Economics,SQL,5,4,4,3,Team,8,Accountant
+21,Science,Physics,MATLAB,4,3,4,5,Leadership,8,Software Engineer
+20,Arts,Philosophy,C++,4,5,5,2,Team,6,Lawyer
+22,Commerce,Accounting,Java,3,3,2,4,Leadership,7,Accountant
+18,Science,Chemistry,Python,5,5,3,4,Solo,9,Data Scientist
+19,Arts,Art History,Photoshop,3,4,4,3,Leadership,6,UX Designer
+21,Commerce,Finance,Java,4,5,3,3,Team,8,Accountant
+20,Science,Biology,Ruby,4,4,5,3,Solo,7,Doctor
+24,Commerce,Business,Swift,3,4,3,5,Leadership,9,Data Scientist
+22,Arts,Literature,Python,4,3,5,4,Team,6,UX Designer
+21,Science,Physics,C#,5,3,4,2,Solo,8,Software Engineer
+19,Commerce,Accounting,SQL,3,3,3,3,Team,7,Accountant
+20,Arts,Sociology,Java,5,4,4,5,Leadership,8,Lawyer
+18,Science,Math,JavaScript,3,3,4,3,Solo,7,Data Scientist
+23,Arts,Music,C++,4,5,5,3,Leadership,6,UX Designer
+21,Commerce,Marketing,HTML/CSS,4,3,2,3,Team,8,Accountant
+22,Science,Environmental,Java,3,5,3,5,Solo,9,Software Engineer
+19,Arts,Theater,Adobe Illustrator,5,4,3,4,Leadership,6,UX Designer
+26,Science,Chemistry,Python,4,5,3,4,Team,8,Data Scientist
+27,Arts,Literature,JavaScript,5,4,3,5,Leadership,9,UX Designer
+28,Commerce,Economics,C#,4,5,3,3,Solo,8,Accountant
+29,Science,Physics,Java,3,4,5,4,Team,7,Software Engineer
+30,Arts,History,Rust,4,3,4,5,Solo,6,Lawyer
+31,Commerce,Marketing,HTML/CSS,5,4,3,2,Leadership,8,Accountant
+32,Science,Biology,Kotlin,4,5,4,3,Leadership,9,Data Scientist
+27,Arts,Art History,C++,3,4,5,4,Team,8,UX Designer
+28,Commerce,Accounting,Go,4,5,4,3,Solo,7,Accountant
+29,Science,Environmental,Swift,5,3,4,5,Team,9,Software Engineer
+30,Arts,Sociology,JavaScript,3,5,3,2,Solo,6,Lawyer
+32,Commerce,Marketing,TypeScript,4,3,5,4,Leadership,9,Accountant
+31,Science,Physics,SQL,4,5,3,3,Team,8,Data Scientist
+33,Arts,Philosophy,Ruby,5,4,4,3,Leadership,9,UX Designer
+34,Commerce,Finance,Python,3,5,4,4,Solo,7,Accountant
+36,Science,Biology,Go,4,3,5,3,Leadership,8,Software Engineer
+35,Arts,History,Kotlin,4,4,3,2,Team,9,Lawyer
+37,Commerce,Business,Java,3,4,5,3,Leadership,8,Accountant
+38,Science,Chemistry,TypeScript,5,3,4,3,Solo,7,Data Scientist
+39,Arts,Sociology,C++,4,5,3,4,Leadership,8,UX Designer
+40,Commerce,Marketing,JavaScript,4,5,4,5,Team,7,Accountant
+41,Science,Environmental,MATLAB,3,4,5,4,Leadership,9,Software Engineer
+42,Arts,Literature,Python,4,5,4,3,Solo,8,Lawyer
+43,Commerce,Economics,Go,5,4,3,4,Team,7,Accountant
+44,Science,Biology,SQL,3,5,3,2,Leadership,6,Data Scientist
+45,Arts,Music,C#,4,3,5,3,Team,8,UX Designer
+46,Commerce,Marketing,Ruby,3,4,5,3,Leadership,9,Accountant
+47,Science,Chemistry,Swift,5,4,3,2,Team,7,Software Engineer
+48,Arts,Art History,Python,4,5,3,3,Leadership,8,Lawyer
+49,Commerce,Accounting,Java,3,4,5,4,Team,9,Accountant
+50,Science,Physics,TypeScript,4,5,3,2,Solo,8,Data Scientist
+26,Science,Biology,Ruby,3,5,4,4,Leadership,8,Data Scientist
+27,Commerce,Marketing,Java,4,4,5,3,Team,9,Accountant
+28,Arts,History,Swift,5,3,4,3,Solo,7,UX Designer
+29,Science,Physics,JavaScript,4,4,5,4,Leadership,9,Software Engineer
+30,Commerce,Economics,C#,3,4,5,2,Team,8,Accountant
+31,Arts,Music,Python,4,5,3,5,Leadership,6,UX Designer
+32,Science,Environmental,TypeScript,4,5,4,3,Solo,7,Data Scientist
+33,Commerce,Business,Kotlin,4,3,5,2,Team,9,Accountant
+34,Science,Chemistry,Go,5,4,3,4,Leadership,8,Software Engineer
+35,Arts,Philosophy,Ruby,4,3,5,5,Solo,7,Lawyer
+36,Commerce,Finance,JavaScript,3,5,4,3,Team,9,Accountant
+37,Science,Biology,Swift,4,5,3,4,Leadership,6,Data Scientist
+38,Arts,Literature,Python,5,4,5,3,Team,8,UX Designer
+39,Commerce,Marketing,C#,4,4,3,2,Solo,9,Accountant
+40,Science,Physics,TypeScript,3,5,4,5,Leadership,7,Software Engineer
+41,Arts,Art History,Java,4,4,3,4,Team,8,Lawyer
+42,Commerce,Accounting,SQL,5,3,5,3,Leadership,6,Accountant
+43,Science,Environmental,Ruby,4,5,3,4,Solo,8,Data Scientist
+44,Arts,Sociology,Kotlin,3,4,5,4,Leadership,7,UX Designer
+45,Commerce,Business,Go,4,4,5,3,Team,8,Accountant
+46,Science,Math,C#,4,5,3,2,Solo,9,Software Engineer
+47,Arts,Sociology,Python,3,5,4,3,Leadership,6,Lawyer
+48,Commerce,Marketing,JavaScript,4,3,5,2,Team,9,Accountant
+49,Science,Chemistry,MATLAB,4,5,3,4,Solo,7,Data Scientist
+50,Arts,Philosophy,Swift,5,3,4,5,Leadership,8,UX Designer
+51,Commerce,Economics,Ruby,3,4,5,3,Solo,6,Accountant
+52,Science,Biology,Java,4,5,3,4,Leadership,9,Software Engineer
+53,Arts,Music,Go,4,3,5,2,Leadership,8,UX Designer
+54,Commerce,Marketing,Python,3,5,4,3,Team,7,Accountant
+55,Science,Physics,JavaScript,5,4,3,5,Solo,8,Data Scientist
+26,Science,Environmental,JavaScript,4,4,3,5,Team,7,Data Scientist
+27,Arts,History,Kotlin,5,3,4,3,Leadership,8,UX Designer
+28,Commerce,Marketing,Ruby,3,5,4,2,Team,9,Accountant
+29,Science,Math,C#,4,5,3,4,Leadership,8,Software Engineer
+30,Arts,Sociology,Python,3,4,5,4,Solo,7,Lawyer
+31,Commerce,Economics,TypeScript,5,4,3,5,Leadership,6,Data Scientist
+32,Arts,Literature,Java,4,3,5,3,Team,8,UX Designer
+33,Science,Physics,Go,4,4,3,5,Leadership,7,Software Engineer
+34,Commerce,Business,Kotlin,3,5,4,3,Solo,8,Accountant
+35,Arts,Music,Ruby,5,3,5,2,Team,9,UX Designer
+36,Science,Chemistry,JavaScript,4,4,3,3,Leadership,8,Data Scientist
+37,Commerce,Accounting,Swift,4,5,3,4,Solo,7,Accountant
+38,Arts,Art History,Python,3,4,5,4,Team,6,Lawyer
+39,Science,Biology,Go,5,3,4,5,Leadership,8,Data Scientist
+40,Commerce,Finance,Ruby,4,5,3,3,Solo,7,Accountant
+41,Arts,Philosophy,Kotlin,3,5,4,4,Leadership,9,UX Designer
+42,Science,Environmental,C#,4,4,3,2,Team,8,Software Engineer
+43,Commerce,Marketing,JavaScript,4,5,3,3,Leadership,7,Accountant
+44,Arts,Sociology,Python,5,3,4,4,Solo,6,UX Designer
+45,Science,Chemistry,Kotlin,4,5,3,5,Leadership,8,Data Scientist
+46,Commerce,Accounting,TypeScript,3,4,5,4,Team,7,Accountant
+47,Arts,Literature,C#,4,3,5,3,Leadership,8,Lawyer
+48,Science,Math,Java,3,5,4,2,Team,9,Software Engineer
+49,Commerce,Finance,Go,4,5,3,4,Solo,7,Accountant
+50,Arts,Philosophy,Ruby,5,3,5,3,Team,8,UX Designer
+51,Science,Physics,Swift,3,4,4,2,Leadership,9,Data Scientist
+52,Arts,Music,JavaScript,5,4,3,4,Team,7,UX Designer
+53,Commerce,Business,Python,3,5,4,3,Leadership,8,Accountant
+54,Science,Biology,Ruby,4,3,5,4,Team,6,Software Engineer
+55,Commerce,Marketing,Java,3,4,5,2,Leadership,9,Accountant
