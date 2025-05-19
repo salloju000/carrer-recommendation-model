@@ -1,36 +1,74 @@
-Career Recommendation System
-Overview
-This project implements a machine learning-based Career Recommendation System that predicts the best career path for individuals based on their attributes, such as skills, preferences, and more. By using the Random Forest Classifier, the system classifies individuals into different career paths based on their input data.
+<h1 align="center">💼 Career Recommendation Model</h1>
+<p align="center">
+  An intelligent machine learning model that suggests career paths based on a user's skills and interests. Built with simplicity and purpose to help users find the right career direction.
+</p>
 
-The system preprocesses the data using Label Encoding for categorical data, applies data splitting (80% train, 20% test), and evaluates the model's performance with metrics like accuracy and a classification report.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/salloju000/carrer-recommendation-model?style=social" />
+  <img src="https://img.shields.io/github/forks/salloju000/carrer-recommendation-model?style=social" />
+  <img src="https://img.shields.io/github/license/salloju000/carrer-recommendation-model" />
+</p>
 
+---
 
-🛠️ Technologies Used
-Scikit-learn: For building the machine learning model and preprocessing.
+## 🧠 Project Description
 
-Pandas: For handling and preprocessing the data.
+This machine learning project predicts suitable career roles based on a user’s self-assessed skills. It uses a classification algorithm to recommend professions such as Data Scientist, Software Engineer, Web Developer, and more based on various technical competencies.
 
-NumPy: For numerical operations.
+---
 
-XGBoost: For model enhancement using gradient boosting.
+## 📌 Features
 
-SMOTE: For balancing imbalanced classes in the dataset.
+- 📊 Accepts user inputs for multiple skills
+- 🧠 Predicts most relevant career path using ML classification
+- 📈 Trained on a labeled dataset with different professional roles
+- 🌐 Easy to extend or deploy with a web frontend (Streamlit/Flask compatible)
 
-⚙️ How to Run the Project
-Step 1: Clone the Repository
-Clone the repository to your local machine by running the following command:
+---
 
-bash
-Copy
-Edit
-git clone https://github.com/salloju000/career-recommendation-model.git
-cd career-recommendation-model
-Step 2: Install Dependencies
-Ensure you have all the necessary libraries installed. You can create a virtual environment and install the dependencies using the following command:
+## 📁 Dataset
 
-bash
-Copy
-Edit
+- **Skills-based dataset** with career labels
+- Columns include: Python, C++, Java, Communication, Problem Solving, Writing, etc.
+- Target: Recommended career (e.g., Data Scientist, HR, Web Developer)
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python**
+- **Pandas**, **NumPy**
+- **Scikit-learn**
+- **Jupyter Notebook**
+- Optional Deployment: **Streamlit** / **Flask**
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+Make sure you have the following:
+
+- Python 3.x
+- Jupyter Notebook or VS Code
+- pip package manager
+
+### 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/salloju000/carrer-recommendation-model.git
+
+# Navigate into the project folder
+cd carrer-recommendation-model
+
+# (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
 pip install -r requirements.txt
-Step 3: Load Data and Train the Model
-You can now load your data into a DataFrame. Replace df with your actual dataset.
+
+# Run the notebook
+jupyter notebook career_prediction.ipynb
